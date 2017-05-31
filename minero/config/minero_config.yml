@@ -1,0 +1,8 @@
+vcfminer:
+    webservice:
+        host: http://localhost:8888
+        username: Admin
+        password: temppass
+    server:
+        host: localhost
+        user: user
